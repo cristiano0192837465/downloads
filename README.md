@@ -141,22 +141,5 @@ start-50" for="lightSwitch">
 
 <div class="container p-4 pb-0">
 
-<section class="mb-4">
 
-<a class="btn btn-outline-light btn-floating m-1" href="https://web.facebook.com/profile.php?id=100087576079569&amp;sk" target="_blank" role="button"><i class="fab fa-facebook-f"></i></a>
-
-<a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/supremorp/" target="_blank" role="button"><i class="fab fa-instagram"></i>
-</a>
-
-<a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/supremoroleplay" target="_blank" role="button"><i class="fab fa-twitter"></i></a>
-
-<a class="btn btn-outline-light btn-floating m-1" href="https://www.youtube.com/@supremoroleplay" target="_blank" role="button"><i class="fab fa-youtube"></i></a>
-</section>
-
-</div>
-
-
-<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-Supremo © 2017-<span><script type="text/javascript">document.write(new Date().getFullYear())</script>2023</span><br>
-Painite Team © 2018-<span><script type="text/javascript">document.write(new Date().getFullYear())</script>2023</span>
 </div>
